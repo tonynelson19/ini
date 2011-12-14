@@ -1,10 +1,15 @@
-An advanced INI parser for ColdFusion.
+An advanced INI parser for ColdFusion
+=====================================
 
-Usage:
-	
-	ini = new Ini("/path/to/file.ini");
-	sections = ini.getSections();
-	section = ini.getSection("foo");
+Usage
+-----
+
+ini = new Ini("/path/to/file.ini");  
+sections = ini.getSections();  
+section = ini.getSection("foo");  
+
+Copyright and License
+---------------------
 
 Copyright 2011 Tony Nelson
 
